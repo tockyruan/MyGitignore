@@ -12,3 +12,7 @@
 .cxx
 #忽略local.properties文件，此文件是用来保存项目依赖信息
 local.properties
+#忽略所有.apk文件
+*.apk
+#忽略所有.jks文件
+*.jks
