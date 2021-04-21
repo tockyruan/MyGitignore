@@ -12,5 +12,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+        <!--自定义系统分割线颜色-->
+        <item name="android:listDivider">@drawable/customizelistdivider </item>
     </style>
 </resources>
